@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/sn/projects/g",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Suren Nihalani",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "suren@duck.com",
+  "friendly_name": "g",
+  "github_user": "SurenNihalani",
+  "license": "MIT",
+  "package_name": "g",
+  "project_name": "g",
+  "version": "0.0.0"
+}
