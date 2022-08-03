@@ -20,6 +20,7 @@ python = "^3.7"
 click = ">=8.0.1"
 
 [tool.poetry.dev-dependencies]
+ipdb = ">=0.13.9"
 Pygments = ">=2.10.0"
 black = ">=21.10b0"
 coverage = {extras = ["toml"], version = ">=6.2"}
